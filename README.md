@@ -15,8 +15,8 @@
 ### 👨‍💻 Perfil Profesional
 
 - 🎓 **Formación académica:** Estudiante avanzado de la **Tecnicatura Superior en Análisis de Sistemas** en el *ISFT N° 179 Carlos Pellegrini*.
-- ⚙️ **Especialización técnica:** Desarrollo de software con foco en **Python**, arquitecturas modulares, diseño y modelado de bases de datos relacionales (**PostgreSQL**, **MySQL**, **SQLite**) y despliegue contenerizado con **Docker**.
-- 💼 **Experiencia aplicada:** Desarrollo integral de plataformas institucionales (SGA), aplicaciones de escritorio en Python (Tkinter / Pygame) y desarrollo web responsive.
+- ⚙️ **Especialización técnica:** Desarrollo de software con foco en **Python**, arquitecturas modulares, sistemas RAG e IA aplicada, modelado de bases de datos relacionales (**PostgreSQL**, **MySQL**, **SQLite**) y despliegue contenerizado con **Docker**.
+- 💼 **Experiencia aplicada:** Desarrollo integral de plataformas institucionales (SGA), motores de búsqueda semántica con bases vectoriales (ChromaDB), aplicaciones de escritorio en Python y APIs REST con FastAPI y Django.
 
 ---
 
@@ -25,7 +25,7 @@
 <div align="center">
 
 #### Lenguajes, Frameworks & Bases de Datos
-<img src="https://skillicons.dev/icons?i=python,django,postgres,mysql,sqlite,html,css,js&theme=dark" height="42" alt="Stack Principal" />
+<img src="https://skillicons.dev/icons?i=python,fastapi,django,postgres,mysql,sqlite,html,css,js&theme=dark" height="42" alt="Stack Principal" />
 
 <br/>
 
@@ -40,6 +40,7 @@
 
 | Proyecto | Descripción | Tecnologías | Código / Demo |
 | :--- | :--- | :--- | :---: |
+| 📄 **RAG Doc Assistant** | Sistema RAG de producción para consulta y análisis semántico de PDFs con citas de página y base vectorial. | `Python` `FastAPI` `ChromaDB` `Pytest` | [Repositorio](https://github.com/urhiel-tao/rag-doc-assistant) |
 | 🏛️ **SGA Web Institucional** | Plataforma web integral para administración académica: planes de estudio, actas de cursada, libro matriz y analíticos. | `Python` `Django` `PostgreSQL` `Docker` | [Repositorio](https://github.com/urhiel-tao/web_institucional) |
 | 🌐 **Portafolio Profesional** | Sitio web personal que reúne proyectos formativos, trayectoria, certificaciones y CV descargable. | `HTML5` `CSS3` `JavaScript` | [Sitio en Vivo](https://urhiel-tao.github.io/Portafolio/) |
 | 🧮 **Calculadora Científica** | Calculadora de escritorio con funciones trigonométricas, evaluación segura y suite de tests unitarios. | `Python` `Tkinter` `Unittest` | [Repositorio](https://github.com/urhiel-tao/calculadora-cientifica) |
