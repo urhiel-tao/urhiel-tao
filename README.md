@@ -40,7 +40,7 @@
 
 | Proyecto | Descripción | Tecnologías | Código / Demo |
 | :--- | :--- | :--- | :---: |
-| 📄 **RAG Doc Assistant** | Sistema RAG de producción para consulta y análisis semántico de PDFs con citas de página y base vectorial. | `Python` `FastAPI` `ChromaDB` `Pytest` | [Repositorio](https://github.com/urhiel-tao/rag-doc-assistant) |
+| 📄 **Asistente Documental RAG** | Sistema RAG de producción para consulta y análisis semántico de documentos en PDF con citas de página y base vectorial. | `Python` `FastAPI` `ChromaDB` `Pytest` | [Repositorio](https://github.com/urhiel-tao/rag-doc-assistant) |
 | 🏛️ **SGA Web Institucional** | Plataforma web integral para administración académica: planes de estudio, actas de cursada, libro matriz y analíticos. | `Python` `Django` `PostgreSQL` `Docker` | [Repositorio](https://github.com/urhiel-tao/web_institucional) |
 | 🌐 **Portafolio Profesional** | Sitio web personal que reúne proyectos formativos, trayectoria, certificaciones y CV descargable. | `HTML5` `CSS3` `JavaScript` | [Sitio en Vivo](https://urhiel-tao.github.io/Portafolio/) |
 | 🧮 **Calculadora Científica** | Calculadora de escritorio con funciones trigonométricas, evaluación segura y suite de tests unitarios. | `Python` `Tkinter` `Unittest` | [Repositorio](https://github.com/urhiel-tao/calculadora-cientifica) |
